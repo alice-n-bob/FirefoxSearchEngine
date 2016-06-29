@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Sci-Hub</ShortName>
+  <Description>Sci-Hub</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">data:image/x-icon;base64,AAABAAEAEBAAA ... DAAA=</Image>
+  <Url type="text/html" method="GET" template="http://sci-hub.cc/{searchTerms}" />
+  <SearchForm>http://sci-hub.cc/</SearchForm>
+</OpenSearchDescription>
